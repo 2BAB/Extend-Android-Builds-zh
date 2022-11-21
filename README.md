@@ -2,7 +2,7 @@
 
 ## 购买地址
 
-- [电子版](https://xiaozhuanlan.com/extend-android-builds-zh)：连载中，预计 2023 年 2月 28 日完结，原价 ¥399，完结前将保持优惠价（¥199 起跳，每两周涨价 ￥20）。
+- [电子版](https://xiaozhuanlan.com/extend-android-builds-zh)：连载中，每周更新 2 节，预计 2023 年 2月 28 日完结。原价 ¥399，完结前将保持优惠价（¥199 起跳，每两周涨价 ￥20）。
 
 ## 前序学习资料
 
