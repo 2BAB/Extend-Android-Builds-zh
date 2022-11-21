@@ -10,7 +10,7 @@
 
 ## 配套代码
 
-- [Extend-Android-Builds-samples-zh](https://github.com/2BAB/Extend-Android-Builds-samples-zh) ：本书配套示例代码仓库。
+- [Playground](https://github.com/2BAB/Extend-Android-Builds-Playground-zh) ：本书配套示例代码仓库。
 - [Polyfill](https://github.com/2BAB/Polyfill)：本书使用到的开源项目，构建了一套与 AGP Artifact API 风格一致的第三方工件仓库。
 - [Seal](https://github.com/2BAB/Seal)：本书使用到的开源项目，一款处理 AndroidManifest.xml 合并冲突的 Gradle 插件，由全新的 Variant/Artifact API 和 Polyfill 框架驱动。
 - [ScratchPaper](https://github.com/2BAB/ScratchPaper)：本书使用到的开源项目，一款图片资源相关的 Gradle 插件，用来给 APK 图标添加 variant/version/git-commit-id 等信息以区分不同版本，由全新的 Variant/Artifact API 和 Polyfill 框架驱动。
