@@ -1,0 +1,16 @@
+[versions]
+kotlinVer = "1.6.21"
+agpVer = "7.2.1"
+kspVer = "1.6.21-1.0.6"
+kotlinPoetVer = "1.11.0"
+
+[libraries]
+android-gradle-plugin = { module = "com.android.tools.build:gradle", version.ref = "agpVer" }
+kotlin-std = { module = "org.jetbrains.kotlin:kotlin-stdlib-jdk8", version.ref = "kotlinVer" }
+ksp-api = { module = "com.google.devtools.ksp:symbol-processing-api", version.ref = "kspVer" }
+kotlinpoet-core = { module = "com.squareup:kotlinpoet", version.ref = "kotlinPoetVer" }
+kotlinpoet-ksp = { module = "com.squareup:kotlinpoet-ksp", version.ref = "kotlinPoetVer" }
+
+[bundles]
+
+[plugins]
