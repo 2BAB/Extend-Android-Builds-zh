@@ -1,0 +1,12 @@
+[versions]
+kotlinVer = "1.7.21"
+agpVer = "8.0.0-rc01"
+
+
+[libraries]
+android-gradle-plugin = { module = "com.android.tools.build:gradle", version.ref = "agpVer" }
+kotlin-std = { module = "org.jetbrains.kotlin:kotlin-stdlib-jdk8", version.ref = "kotlinVer" }
+
+[bundles]
+
+[plugins]

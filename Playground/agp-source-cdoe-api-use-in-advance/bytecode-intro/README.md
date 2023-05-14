@@ -1,0 +1,1 @@
+Navigate to https://github.com/jdvp/AndroidAspectExample for AspectJ example.
