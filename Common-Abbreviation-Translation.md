@@ -1,0 +1,61 @@
+## 常用缩写
+
+- AGP(Android Gradle Plugin)
+- GKD(Gradle Kotlin DSL) 仅 2-3 使用
+- GGD(Gradle Groovy DSL) 仅 2-3 使用
+- KTS(Kotlin Script)
+- GAV(group, artifact and version) ，即指代 Maven 坐标的一种方式
+- AP(Annotation Processor)
+- APT(Annotation Processor Tool)
+- Kapt or KAPT (the Kotlin Annotation Processing Tool) 
+- KSP(Kotlin Symbol Processor)
+- KCP(Kotlin Compiler Plugin)
+- IR(Intermediate Representation)
+
+
+## 常用翻译
+
+- 属性（Property）
+- 初始化阶段（Initialization）
+- 配置阶段（Configuration）
+- 执行阶段（Execution）
+- 依赖置换（Dependency Substitution）
+- 插件扩展（Extension）
+- 任务（Task）
+- 配置规避（Configuration Avoidance）
+- 编译规避（Compilation Avoidance）
+- 类型安全的模型访问器（Type-Safe Model Accessors）
+- 脚本插件（Script Plugin）
+- 独立脚本插件（Standalone Script Plugin）
+- 预编译脚本插件（Precompiled Script Plugin）
+- 二进制插件（Binary Plugin）
+- 约定插件（Convention Plugin）
+- 多功能插件（Multi-Function Plugin）
+- 平台插件（Platform Plugin）
+- 生态插件（Ecosystem Plugin）
+- 生态协同插件（Eco-Coordination Plugin)
+- 复合构建（Composite Build）
+- 配置缓存（Configuration Cache）
+- 并行的项目执行（Parallel Project Execution）
+- 解耦的多项目（Decoupled Projects）
+- 按需配置（Configuration On Demand）
+- 跨项目配置（Cross Project Configuration）
+- 托管类/变量（Managed Classes/Properties）
+- 变体（Variant）
+- 工件（Artifact）
+- 变体感知型依赖项管理机制（Variant-Aware Dependency Management）
+- 变体感知型任务（Variant-Aware task）
+- 惰性配置（Lazy Configuration）
+- 注解（Annotation）
+- 注解处理器（Annotation Processor）
+- 编译过程的中间表示物（Intermediate Representation）
+- 生命周期任务（Lifecycle Task）
+- 单元测试（Unit Test）
+- 集成测试（Integration Test）
+- 功能测试（Functional Test）
+- 系统测试（System Test）
+- 测试替身（Test Doubles）
+- 持续构建（Continuous Build）
+- 托管类/属性（Managed classes/properties）
+- 共享式构建服务（Shared Build Services）
+- 聚合器（Aggregator）
