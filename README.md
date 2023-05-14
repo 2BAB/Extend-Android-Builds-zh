@@ -4,9 +4,9 @@
 
 - [电子版](https://t.zsxq.com/0eF9jWLpY)：原价 ¥499，点击链接或扫描下面二维码购买，进入后请参考下图点击专栏阅读（推荐使用网页版获得最佳阅读体验）。本书目录见该[文档](./TOC.md)。
 
-![封面与星球二维码](https://2bab-images.lastmayday.com/Screenshot%202023-05-14%20at%203.22.03%20PM.png?imageslim)
+![封面与星球二维码](cover-and-planet-qrcode.png)
 
-![专栏阅读体验](https://2bab-images.lastmayday.com/Screenshot%202023-05-14%20at%203.19.38%20PM.png?imageslim)
+![专栏阅读体验](read-in-web-page.png)
 
 
 
