@@ -3,7 +3,6 @@
 
 ## 1-3
 
-- [Google IO 2013 The New Android SDK Build System](https://v.youku.com/v_show/id_XNTYwMzY0NDYw.html?spm=a2h1n.8251843.playList.5!4~1!2~3~A&f=19280821&o=1)
 - [android-maven-plugin](http://simpligility.github.io/android-maven-plugin/)
 - [Android Development Tools (ADT) Plugin](https://stuff.mit.edu/afs/sipb/project/android/docs/tools/sdk/eclipse-adt.html)
 - [The New Android SDK Build System](https://www.youtube.com/watch?v=LCJAgPkpmR0)
@@ -219,6 +218,7 @@
 - [Gradle all the way down: Testing your Gradle plugin with Gradle TestKit - Tony Robalik](https://dev.to/autonomousapps/gradle-all-the-way-down-testing-your-gradle-plugin-with-gradle-testkit-2hmc)
 - [ProjectBuilder doc - @Gradle](https://docs.gradle.org/current/javadoc/org/gradle/testfixtures/ProjectBuilder.html)
 - [Gradle Release Notes - 7.4](https://docs.gradle.org/7.4/release-notes.html)
+- [Saving 5,400 hours a year with Gradle's Configuration Cache](https://developer.squareup.com/blog/5-400-hours-a-year-saving-developers-time-and-sanity-with-gradles/)
 
 
 ## 4-6
