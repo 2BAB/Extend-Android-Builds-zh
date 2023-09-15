@@ -1,1 +1,0 @@
-println("The dummy-script-plugin2 from ./build-logic is applied.")

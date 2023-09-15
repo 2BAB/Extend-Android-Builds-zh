@@ -11,7 +11,7 @@
 
 星球主营内容：
 
-- 《Android 构建与架构实战》电子专栏：可能是市面上独一份（统计包括中英文）、系统性学习 Gradle 和 AGP 实战的书籍。随着 Android 的发展，封禁的系统 API 越来越多，Runtime 的黑科技已经越来越没得做，编译构建的工具却热度不减。
+- 《Android 构建与架构实战》电子专栏：可能是市面上独一份（统计包括中英文）、系统性学习 Gradle 和 AGP 实战的书籍。随着 Android 的发展，封禁的系统 API 越来越多，Runtime 的可挖掘的技术增长点越来越少，编译构建的工具却热度不减。
 - 新知预告，不仅是英文社区的一手 Android 架构方面资料，还包括作为 GDE 参与到各个会议、与行业专家交流等了解到的前沿资讯。
 - 会员播客，包括软技能分享、行业观察、职场思考、海外的互联网公司发展等。
 - 问答：技术问题包括 AGP、Gradle、Android 架构、Kotlin 编译器等我和嘉宾探索的领域，均可提供一定的帮助；软实力和职业发展方向的问题亦可提供指引。
@@ -26,7 +26,7 @@
 
 ## 配套代码
 
-- [Playground](./Playground/) ：本书配套示例代码。
+- [Playground](https://github.com/2BAB/Extending-Android-Builds-Playground) ：本书配套示例代码仓库。
 - [Polyfill](https://github.com/2BAB/Polyfill)：本书使用到的开源项目，构建了一套与 AGP Artifact API 风格一致的第三方工件仓库。
 - [BundleTool Gradle Plugin](https://github.com/2BAB/bundle-tool-gradle-plugin)：本书使用到的开源项目，自动化 BundleTool 执行的 Gradle 插件，包括 `.apks` 的生成、测试、安装、上传等后续操作。
 - [ScratchPaper](https://github.com/2BAB/ScratchPaper)：本书使用到的开源项目，一款图片资源相关的 Gradle 插件，用来给 APK 图标添加 variant/version/git-commit-id 等信息以区分不同版本，由全新的 Variant/Artifact API 和 Polyfill 框架驱动。
