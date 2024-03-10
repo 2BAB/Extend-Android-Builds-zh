@@ -39,7 +39,7 @@
 ## 更多参考资料
 
 - [附录 - 常用缩写/常用翻译](./Common-Abbreviation-Translation.md)
-- [本书各节参考资料](./reference_per_section.md)
+- [本书各节参考资料](https://github.com/2BAB/Extending-Android-Builds-Playground/reference_per_section.md)
 - [Gradle 插件收藏夹](https://github.com/stars/2BAB/lists/gradle-plugins)
 
 
